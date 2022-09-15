@@ -5,4 +5,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: ToxicPt/Reusable_workflow/.github/workflows/main.yml@main
+    uses: ToxicPt/Reusable_workflow/.github/workflows/hello.yml@main
